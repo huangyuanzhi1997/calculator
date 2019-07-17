@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\d2ca3828ec7a276f216f661caef5c1fa1f66ddd3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="C:\Users\Administrator\Desktop\MyCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_01c0f6277d0bbc03b2bd2a1a24dc39b5e29adf0f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\2ae7eb0a917adb0a46cbcd7b72f9e05b3065f668\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="C:\Users\Administrator\Desktop\MyCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_89b448b9b94e1e7f2598f4efe5dfa87092a6342f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\e3562d43476dc7e78440fd56bf5dfd917960a941\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="C:\Users\Administrator\Desktop\MyCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ae788d608ee78b2ca5a072b12cb969c7503dc34b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\SDK\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="C:\Users\Administrator\Desktop\MyCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.0.0-alpha1_c435f3edc2db5fa2ce68d599a64fe3dd47789496\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\82ec354820d98589f803e0743178cb8b71d94c7b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="C:\Users\Administrator\Desktop\MyCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_76e2c77752acfae253c9fd281160b75b41247223\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\478d13ef5ef98a69f562bb5ede2065c25bfa3df4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="C:\Users\Administrator\Desktop\MyCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_14cf3ecdca11a7bd0484522ddc625bf9c073d1f1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\94b90e5d0f5f1d7e0da8275cb249af6a4f05b98e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="C:\Users\Administrator\Desktop\MyCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_58ec76f8b8e11fa219ac782b98902627aedd60c4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\MyCalculator\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ed68e5c3eb61180959fa5ac357cd8013793846ab">
+        <dex dex="C:\Users\Administrator\Desktop\MyCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_de42e3359d8096fd2f0d04bf19d68b5c8229b56e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\2e8d9950f03068dfb4ba1834ae323a00ab49dcbc\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\Administrator\Desktop\MyCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_435ee18903b491bce4f2c107c6033d10c1901905\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\88ba21cee68ee2b44130d34da719366fc5ef1eb0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="C:\Users\Administrator\Desktop\MyCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3689c6452998e9a2da05ae0016beb34226c877d4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\SDK\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\Administrator\Desktop\MyCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_37ac430bbd1b5242715d05088895a3540baef21e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\998de0de4d99a86d12c2edf294f02a887c4d4b7a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="C:\Users\Administrator\Desktop\MyCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d691f2836cc2dba5f015d07ed4eafb8108c18eca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\MyCalculator\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Administrator\Desktop\MyCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_a7352e9821527181242a9a7f76a591cf3031bba0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\02c60b5f0987b544efc2d1e29d5057b072716d66\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Administrator\Desktop\MyCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_14441bc5a55f9e77bdba799656f440a63c1167ec\classes.dex" />
+    </item>
+
+</items>
